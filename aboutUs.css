@@ -1,0 +1,102 @@
+
+body
+{
+	 background-image : url("life.jpg") ;
+	 background-size: cover;
+	 -webkit-background-size : cover;
+	  -moz-background-size : cover;
+	  -o-background-size:cover;
+	  background-size : cover;
+	  
+	   
+}
+
+.header
+{
+	color: white;
+	 background-image : url("para.jpg");
+	 background-size: 612px 434px;
+	  background-repeat : no-repeat;
+	  background-position:center;
+	border: 612px 434px cyan;
+	
+	
+}
+
+h1{
+	Font :  Times New Roman;
+	font-style: italic;
+}
+
+h2
+{
+	white-space: nowrap; 
+    width: 180px; 
+    overflow: hidden;
+    text-overflow: clip; 
+	text-decoration: underline;
+	Font :  Times New Roman;
+	color: cyan;
+	padding: 10px;
+}
+
+p
+{
+	 color:white ;
+     font-size: 25px;
+	 
+}
+
+ // Styles// 
+ {
+     margin: 0;
+     padding: 0;
+}
+
+
+.container {
+  
+   background-image : url("image5.jpg");
+    background-repeat: no repeat; 
+   margin: 29px auto;
+   background-size: cover;
+   background-color: white;
+   border: 5px solid white;
+   width:1000px;
+   }
+
+h3
+{
+	
+	font-size: 25px;
+	font-style: italic;
+	color: cyan ;
+	
+}
+.content {
+	text: align center;
+    border:black;
+	width : 1200px;
+	Font-size: 22px;
+	color: white;
+	font-style:italic;
+}
+ul.content {
+
+  list-style-type: circle;
+}
+
+.links
+{
+	color: red;
+	font-size: 25px;
+    
+}
+.green
+{
+	text-align:center;
+	color:aqua;
+	font: 20px;
+	background-color:black;
+}
+

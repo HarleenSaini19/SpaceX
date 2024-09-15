@@ -1,0 +1,74 @@
+body
+{
+	 background-image : url("life.jpg") ;
+	 background-size: cover;
+	 -webkit-background-size : cover;
+	  -moz-background-size : cover;
+	  -o-background-size:cover;
+	  background-size : cover;
+	     
+}
+
+h1{
+	
+	color: CYAN;
+	text-align:center;
+	text-decoration: underline;
+	
+}
+
+.container
+
+{
+	color: white;
+	text-align:center;
+	font-size:40px;
+
+}
+
+form {
+  padding: 0px;
+  background: transparent;
+  border-radius: 0px;
+  width: 100%;
+  border: 2px solid white;
+  color: #fff;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  
+  
+}
+
+
+.cont
+{
+	color:white;
+	font-size: 20px;
+	text-align:center;
+	
+	padding: 19px;
+	box-sizing: content-box;
+     width: 99%;
+     border-radius: 0px;
+  border: 2px solid white;
+     padding: 5px;
+}
+.button
+
+{
+
+	text-align:center;
+	font-size:25px;
+}
+
+.tbl-content
+{
+
+color:white;
+font-size: 30px;
+text-align:center;
+}
+
+
+

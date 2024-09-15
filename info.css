@@ -1,0 +1,128 @@
+body
+{
+	 background-image : url("life.jpg") ;
+	 background-size: cover;
+	 
+	  
+	  
+	   
+}
+h1{
+
+	color:#FFFFFF;
+	font-size: 50px;
+}
+h2{
+
+	color:#FFFFFF;
+	font-size: 50px;
+	text-align:center;
+
+}
+p{
+	color:#FFFFFF;
+	font-size: 30px;
+}
+#panel1,
+ #flip1{
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  border: solid 1px #c3c3c3;
+  color: white;
+  width: 80%;
+ 
+ 
+}
+
+#panel1 {
+  padding: 10px;
+  display: none;
+
+}
+
+#panel2,
+ #flip2 {
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  border: solid 1px #c3c3c3;
+  color: white;
+  width: 80%;
+ 
+ 
+}
+#panel2 {
+  padding: 10px;
+  display: none;
+
+}
+#panel3 {
+  padding: 50px;
+  display: none;
+  
+
+}
+#panel3,
+ #flip3 {
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  border: solid 1px #c3c3c3;
+  color: white;
+  width: 80%;
+
+ 
+}
+#panel4 {
+  padding: 50px;
+  display: none;
+
+}
+#panel4,
+ #flip4 {
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  border: solid 1px #c3c3c3;
+  color: white;
+  width: 80%;
+
+}
+#panel5 {
+  padding: 50px;
+  display: none;
+
+}
+#panel5,
+ #flip5 {
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  border: solid 1px #c3c3c3;
+  color: white;
+  width: 80%;
+
+ 
+}
+.class1{
+	float:left;
+	width:50%;
+}
+.class2{
+	float:left;
+	width:33.33%;
+}
+
+hr{
+width: 0.000025%
+}
+
+
+
+
+
+
+
+
+

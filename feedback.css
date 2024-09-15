@@ -1,0 +1,83 @@
+html{
+	 background: url(life.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body{
+	background: url(feedback.jpg);
+  background-size: 1900px 370px;
+  background-repeat: no-repeat;
+	font-style: italic;
+	font-family: "Open Sans";
+	font-size: 15px;
+}
+.links{
+	font-size: 25px;
+}
+
+textarea{
+width:50%;
+border:3px solid #00008B;
+padding:5px;
+margin-bottom:10px;
+margin-top:10px;
+margin-left:10px;
+margin-right:8px;
+height:80px;
+resize:none
+}
+
+
+.container {
+  width:420px;
+  margin: 20px auto;
+}
+
+
+form {
+  padding: 0px;
+  background: transparent;
+  border-radius: 0px;
+  border: 2px solid white;
+  color: #fff;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+}
+
+form input {
+  height: 30px;
+  line-height: 30px;
+  background: #fff;
+  color: #000;
+  padding: 0 6px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+textarea {
+    width: 380px;
+    height: 100px;
+}
+
+form button {
+  margin-bottom: 10px;
+  height: 30px;
+  line-height: 10px;
+  background: #FFFFFF;
+  color: #000;
+  margin-top: 7px;
+  cursor: pointer;
+  margin-left: 170px;
+   border: 45px;
+   width: 20%;
+
+}
+form .error {
+  color: #ff0000;
+  font-size: 18px;
+  text-align: bottom;
+}

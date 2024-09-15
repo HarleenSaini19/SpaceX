@@ -1,0 +1,43 @@
+html{
+	 background: url(life.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+.form{
+	text-align: center;
+}
+h1{
+	color:white;
+
+		text-align: center;
+}
+.btn-group button {
+  background-color: black; /* Green background */
+  border: 2px solid white; /* Green border */
+  color: white; /* White text */
+  padding: 19px 54px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: center; /* Float the buttons side by side */
+  text-align: center; 
+  
+}
+
+.btn-group button:not(:last-child) {
+  /*border-right: none;  Prevent double borders */
+  
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.btn-group{
+	color:white;
+	text-align:center;
+	
+}
